@@ -26,7 +26,7 @@ Expense Tracker helps you manage your personal finances by allowing you to:
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots
 
 <img width="2183" height="1241" alt="image" src="https://github.com/user-attachments/assets/fda7a488-2ff6-4fc6-ae72-393bbdf19d07" />
 
